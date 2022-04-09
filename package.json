@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "font-awesome": "^4.7.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "vuetify": "^1.5.7"
     }
 }
